@@ -8,5 +8,4 @@ if age<30:
     if age<21:
        print("you out")
 else:
-    print("OK We can talk!")
-    
+    print("OK lets talk!")
