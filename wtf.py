@@ -1,4 +1,4 @@
-age=37
+age=14
 if age<30:
     print("whats point")
     if age<27:
