@@ -19,5 +19,5 @@ def getAnswer(answerNumber):
     elif answerNumber==9:
         return'very doubtful'
 r=random.randint(1,9)
-fortune=getAnswer(7)
+fortune=getAnswer(r)
 print(fortune)
